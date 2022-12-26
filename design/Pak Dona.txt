@@ -1,0 +1,4 @@
+6. Uji coba chatbot oleh masing-masing anggota kelompok mulai salam pembuka sampai penutup, catat pertanyaan-pertanyaan yang belum bisa terjawab dan tambahkan ke dalam basisdata
+7. Jika terdapat kesalahan silakan dicarikan solusi
+8. Uji coba chatbot oleh orang lain diluar kelompok mulai salam pembuka sampai penutup, catat pertanyaan-pertanyaan yang belum bisa terjawab dan tambahkan ke dalam basisdata, jika terdapat kesalahan silakan dicatat dan perbaiki
+9. Jika tidak ada respon dari user dalam beberapa waktu maka dimunculkan pesan untuk mengakhiri percakapan
